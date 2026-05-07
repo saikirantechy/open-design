@@ -1,4 +1,21 @@
 <p align="center">
+
+<img src="https://img.shields.io/github/stars/saikirantechy/open-design-ai?style=for-the-badge&label=STARS&color=111827" />
+<img src="https://img.shields.io/github/forks/saikirantechy/open-design-ai?style=for-the-badge&label=FORKS&color=10B981" />
+<img src="https://img.shields.io/github/issues/saikirantechy/open-design-ai?style=for-the-badge&label=ISSUES&color=F87171" />
+<img src="https://img.shields.io/github/issues-pr/saikirantechy/open-design-ai?style=for-the-badge&label=PULL%20REQUESTS&color=A855F7" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/CONTRIBUTORS-growing-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20AGENTS-16+-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DESIGN%20SYSTEMS-72-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SKILLS-31-blueviolet?style=for-the-badge" />
+
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Open%20Design-AI-black?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/saikirantechy/open-design-ai?style=for-the-badge&color=yellow" />
   <img src="https://img.shields.io/github/forks/saikirantechy/open-design-ai?style=for-the-badge&color=green" />
