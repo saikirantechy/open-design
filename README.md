@@ -23,7 +23,7 @@
 > Local-first · BYOK · Web-deployable · Part of the SKT Nexus ecosystem.
 
 <p align="center">
-  <img src="./assets/preview.png" width="100%" alt="Open Design AI Preview" />
+  <img src="..." width="100%" alt="Open Design AI Preview" />
 </p>
 
 ---
