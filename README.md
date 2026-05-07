@@ -249,16 +249,14 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 🚀 Help this project reach more developers by sharing it!
 
 ---
-
 ## ❤️ Contributors
 
-Thanks to all the amazing open-source contributors supporting Open Design AI.
+Thanks to all the amazing open-source contributors supporting Open Design AI!
 
 <a href="https://github.com/saikirantechy/open-design-ai/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=saikirantechy/open-design-ai" />
+ <img src="https://contrib.rocks/image?repo=saikirantechy/open-design-ai&max=1000" />
 </a>
 
----
 
 ## 👤 Creator
 
