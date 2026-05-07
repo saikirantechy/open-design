@@ -263,29 +263,13 @@ Contributions are welcome.
 </p>
 
 ---
-
 ## ❤️ Contributors
 
 Thanks to everyone helping build Open Design AI.
 
 <p align="center">
   <a href="https://github.com/saikirantechy">
-    <img src="https://github.com/saikirantechy.png" width="100px;" alt="Sai Kiran BK"/>
-    <br />
-    <sub><b>Sai Kiran BK</b></sub>
-  </a>
-</p>
-
-<p align="center">
-  More contributors will appear here as the community grows 🚀
-</p>
-## ❤️ Contributors
-
-Thanks to everyone helping build Open Design AI.
-
-<p align="center">
-  <a href="https://github.com/saikirantechy">
-    <img src="https://github.com/saikirantechy.png" width="110px;" style="border-radius:50%;" alt="Sai Kiran BK"/>
+    <img src="https://github.com/saikirantechy.png" width="110px;" alt="Sai Kiran BK"/>
     <br /><br />
     <sub><b>Sai Kiran BK</b></sub>
   </a>
@@ -296,8 +280,15 @@ Thanks to everyone helping build Open Design AI.
 </p>
 
 <p align="center">
+  <img src="https://contributors-img.web.app/image?repo=saikirantechy/open-design-ai" />
+</p>
+
+<p align="center">
   More contributors will appear here as the community grows 🚀
 </p>
+
+
+
 
 ---
 
