@@ -224,7 +224,6 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 3. Commit: `git commit -m "Add my feature"`
 4. Push: `git push origin feature/my-feature`
 5. Open a Pull Request
-
 ---
 
 ## 🌐 Share This Project
@@ -256,7 +255,7 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 Thanks to all the amazing open-source contributors supporting Open Design AI.
 
 <a href="https://github.com/saikirantechy/open-design-ai/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=saikirantechy/open-design-ai&max=1000" />
+  <img src="https://contributors-img.web.app/image?repo=saikirantechy/open-design-ai" />
 </a>
 
 ---
