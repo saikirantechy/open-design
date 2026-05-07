@@ -279,6 +279,25 @@ Thanks to everyone helping build Open Design AI.
 <p align="center">
   More contributors will appear here as the community grows 🚀
 </p>
+## ❤️ Contributors
+
+Thanks to everyone helping build Open Design AI.
+
+<p align="center">
+  <a href="https://github.com/saikirantechy">
+    <img src="https://github.com/saikirantechy.png" width="110px;" style="border-radius:50%;" alt="Sai Kiran BK"/>
+    <br /><br />
+    <sub><b>Sai Kiran BK</b></sub>
+  </a>
+</p>
+
+<p align="center">
+  Founder • AI Builder • Open Source Contributor
+</p>
+
+<p align="center">
+  More contributors will appear here as the community grows 🚀
+</p>
 
 ---
 
